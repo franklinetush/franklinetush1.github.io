@@ -1,0 +1,36 @@
+.navbar
+
+{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.container
+{
+	padding-top: 40px;
+}
+.col-sm-3 img
+{
+	width: 100%;
+}
+.carousel-inner img
+{
+	height: 100px;
+
+}
+#e
+{
+	padding-left: 16px;
+}
+.footer
+{   height: 100px
+	background-color: grey;
+	border-top: 1px solid black;
+}	
+.footer img
+{
+	height: 200px;
+    width: 100%;
+	padding-bottom: 30px;
+
+}
